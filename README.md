@@ -3,7 +3,7 @@ This is to explain merge conflict
 
 Line 1
 Line 2
-Line 3
-Line 4
-Line 5
-Line 6
+L3 sec
+L4 sec
+L5
+L6
